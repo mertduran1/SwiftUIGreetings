@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  SwiftUIGreetings
+
+  Created by Mert Duran on 21.11.2022.
+  
+*/
+
+"iOS With Swift" = "Swift İle iOS";
+"SwiftUI is the future" = "SwiftUI gelecek";
+"Programming is Fun" = "Programlama eğlencelidir";
+"New things everyday" = "Her gün yeni şeyler";
+"Good Day" = "İyi Günler";
+"Welcome To SwiftUI" = "SwiftUI'a Hoşgeldiniz";
+"Lets Get Started" = "Hadi Başlayalım";
+"Right Now!" = "Şimdi!";
+"Good Day!" = "İyi Günler!";
